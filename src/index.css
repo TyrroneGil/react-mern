@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+tr,td,th{
+    border-width: 1px;
+    border-color: black;
+}
